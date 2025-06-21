@@ -15,15 +15,16 @@ Welcome to my Git and GitHub learning documentation. This repository serves as m
 
 ## My Learning Plan
 
-| Day | Topic Covered |
-|-----|---------------|
-| Day 1 | What is Git? Installation & Setup |
-| Day 2 | Git init, add, commit, status |
-| Day 3 | Git branches and merging |
-| Day 4 | Pushing to GitHub and remotes |
-| Day 5 | Git clone, pull, and fetch |
-| Day 6 | Resolving merge conflicts |
-| Day 7+ | Real-world practice & project workflow |
+| Topic                                |
+|--------------------------------------|
+| What is Git? Installation & Setup    |
+| Git init, add, commit, status        |
+| Git branches and merging             |
+| Pushing to GitHub and remotes        |
+| Git clone, pull, and fetch           |
+| Resolving merge conflicts            |
+| Real-world practice & project workflow |
+
 
 ---
 
