@@ -32,7 +32,7 @@ Welcome to my Git and GitHub learning documentation. This repository serves as m
 
 ```bash
 # Set global username and email
-git config --global user.name "Reagan Omolo"
+git config --global user.name "username"
 git config --global user.email "your@email.com"
 
 # Initialize a repository
@@ -46,6 +46,9 @@ git commit -m "Initial commit"
 
 # Link to remote GitHub repo
 git remote add origin https://github.com/username/repo-name.git
+
+# clone/pull repo to local machine using SSH key
+git clone git@github.com.username/repo-name.git
 
 # Push to GitHub
 git push -u origin main
